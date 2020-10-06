@@ -1,1 +1,1 @@
-# EjReact
+# Ejercicio sobre React del curso de Programación Full Stack de Digital House
